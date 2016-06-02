@@ -14,7 +14,9 @@ Tout d'abord, allez voir [la société](../../HungryUp.fr.md) et [l'équipe](../
 
 Le poste se trouve à [Paris](../../Location/Paris.fr.md).
 
-Le projet est assez simple, mais il nécessite de la rigueur et une bonne connaissance du Javascript. 
+En tant que développeur Javascript, vous aurez à charge la maintenance et l'évolution du coeur de l'application (nodeJS), 
+du dashboard restaurateur (EmberJS) mais également de notre interface d'administration (EmberJS). 
+Vous serez sous la responsabilité directe de notre Lead Developper.
 
 ## Vos tâches
 * Maintenance de l'application
@@ -31,3 +33,6 @@ Le projet est assez simple, mais il nécessite de la rigueur et une bonne connai
 * EmberJS
 * NodeJS
 * MongoDB
+
+## Rémunération
+* Suivant contrat & expérience

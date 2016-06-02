@@ -7,3 +7,6 @@ Pour le serveur, Hungry Up est son assistant personnel, lui indiquant les besoin
  
 ## Communautés
 * [The Family](http://thefamily.co/)
+
+## Comment postuler ?
+Envoyez un email à [jobs@hungryup.co](mailto:jobs@hungryup.co).
