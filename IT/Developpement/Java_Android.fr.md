@@ -22,6 +22,8 @@ Vous serez sous la responsabilité directe de notre Lead Developper.
 * Maintenance de l'application
 * Conception des points d'API 
 * Participation aux réunions conception
+* Réalisation de tests unitaires
+* Mise en place et suggestions sur l'environnement de travail
 
 ##Types de contrats
 * Freelance
